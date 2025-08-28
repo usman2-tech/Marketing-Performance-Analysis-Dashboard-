@@ -29,7 +29,7 @@ ________________________________________
 -	Sensitive details anonymized for demonstration.
 ________________________________________
 ## Dashboard Preview
-
+https://github.com/usman2-tech/Marketing-Performance-Analysis-Dashboard-/blob/main/Screenshot%202025-08-28%20072943.png
  
 ________________________________________
 ## Tools & Technologies
