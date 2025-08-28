@@ -29,8 +29,8 @@ ________________________________________
 -	Sensitive details anonymized for demonstration.
 ________________________________________
 ## Dashboard Preview
-https://github.com/usman2-tech/Marketing-Performance-Analysis-Dashboard-/blob/main/Screenshot%202025-08-28%20072943.png
- 
+ <img width="634" height="348" alt="Screenshot 2025-08-28 072943" src="https://github.com/user-attachments/assets/5b8c96cb-a5e4-4949-8d10-7717b3058839" />
+
 ________________________________________
 ## Tools & Technologies
 -	Power BI Desktop – For data modeling & visualization.
